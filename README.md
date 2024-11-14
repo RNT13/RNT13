@@ -6,7 +6,7 @@
 <br/><br/>
 <a href="https://github.com/RNT13/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RNT13&show_icons=true&theme=dark" />
-</a>
+</a><br/><br/>
 <a href="https://github.com/RNT13/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RNT13&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a><br/><br/>
