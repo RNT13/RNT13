@@ -1,14 +1,17 @@
 ## Hello, my name is Renato Minoita 🚀
-
+<br/><br/>
 [![Portfólio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=rocket&logoColor=white)](https://renato-s-dev-page.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renatominoita/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-luiz-0b072b247/)
-
-
-![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=RNT13&show_icons=true&theme=dark)
-
+<br/><br/>
+<a href="https://github.com/RNT13/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RNT13&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/RNT13/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RNT13&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a><br/><br/>
 ## Technologies I use in my day 🛠️
-
+<br/>
 <div stats="display: inline_block"><br/>
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
