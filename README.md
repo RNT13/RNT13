@@ -1,4 +1,14 @@
 ## Hello, my name is Renato Minoita 🚀
+
+Full Stack Developer focused on building high-performance web applications with modern technologies.  
+I turn ideas into scalable and responsive interfaces using tools like **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, and more!
+
+🚀 Focused on delivering modern and efficient web solutions  
+🛠️ Skilled in building scalable front-end architectures  
+🌐 Dedicated to crafting accessible and responsive interfaces 
+🧠 I love exploring new technologies  
+🎯 Always learning and improving!
+
 <br/><br/>
 [![Portfólio](https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=rocket&logoColor=white)](https://renato-s-dev-page.vercel.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renatominoita/)
